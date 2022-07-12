@@ -27,8 +27,8 @@ And over 6+ years of experience, I plan, build and test beautiful, stable and hi
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Proqrammer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proqrammer&layout=compact&hide_border=true&theme=light" />
+<a href="https://github.com/Edivri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivri&layout=compact&hide_border=true&theme=light" />
 </a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/proqrammer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/proqrammer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://proqrammer.tech)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/edivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/BenEdivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://Edivri.tech)  
