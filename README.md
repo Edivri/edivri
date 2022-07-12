@@ -8,7 +8,7 @@ and Test-Driven Development <br>
 And over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile applications and Backend Services in a modern and efficient way.
 
 ## 🛠&nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
+![Java](https://img.shields.io/badge/-java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=007ACC)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
@@ -25,10 +25,5 @@ And over 6+ years of experience, I plan, build and test beautiful, stable and hi
 ![Android  Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
 ![XCode](https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=007ACC)&nbsp;
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Edivri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivri&layout=compact&hide_border=true&theme=light" />
-</a>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/edivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/BenEdivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://Edivri.tech)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/edivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/BenEdivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://edivri.tech)  
