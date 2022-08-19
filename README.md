@@ -24,3 +24,8 @@
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/edivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/BenEdivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://edivri.tech)  
+
+---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edivri&show_icons=true&include_all_commits=true&hide_border=true" alt="Ben's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivri&langs_count=8&layout=compact&hide_border=true" alt="Ben's GitHub stats" /> |
+| ------------- | ------------- |
