@@ -26,6 +26,7 @@
 ![Redis](https://shields.io/badge/-Redis-ffffff?style=flat&logo=redis)&nbsp;
 ![MongoDB](https://shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=postgresql)&nbsp;
 
 - 🖥 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -44,9 +45,6 @@
 ![MS Excel](https://img.shields.io/badge/-💹MSExcel-ffffff?style=flat&logo=excel)&nbsp;
 <!-- LANGUAGES AND TOOLS -->
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/edivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/BenEdivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://edivri.tech)  
 
 ---
 
