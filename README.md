@@ -34,16 +34,7 @@
 ![XCode](https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-ffffff?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 
-- 🧮 &nbsp;
-![Calculus](https://img.shields.io/badge/-📈CalculusI,II,III-ffffff?style=flat&logo=calculus)&nbsp;
-![Statistics](https://img.shields.io/badge/-📊Statistics-ffffff?style=flat&logo=statistics)&nbsp;
-![Probability](https://img.shields.io/badge/-🎲Probability-ffffff?style=flat&logo=probability)&nbsp;
-![Trigonometry](https://img.shields.io/badge/-⦝⦞Trigonometry-ffffff?style=flat&logo=excel)&nbsp;
-![Algebra](https://img.shields.io/badge/-√AlgebraI,II-ffffff?style=flat&logo=probability)&nbsp;
-![Discrete](https://img.shields.io/badge/-{⊉}Discrete-ffffff?style=flat&logo=discrete)&nbsp;
-![Geometry](https://img.shields.io/badge/-📐Geometry-ffffff?style=flat&logo=probability)&nbsp;
-![MS Excel](https://img.shields.io/badge/-💹MSExcel-ffffff?style=flat&logo=excel)&nbsp;
-<!-- LANGUAGES AND TOOLS -->
+
 
 
 ---
