@@ -10,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript&logoColor=1a0dab)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=004070)&nbsp;
+![C++](https://img.shields.io/badge/-++-ffffff?style=flat&logo=c&logoColor=004090)&nbsp;
 - 📱 &nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-ffffff?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-ffffff?style=flat&logo=android&logoColor=007ACC)&nbsp;
