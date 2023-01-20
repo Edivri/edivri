@@ -8,15 +8,14 @@
 ![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=FFA500)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript&logoColor=1a0dab)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=004070)&nbsp;
-![C++](https://img.shields.io/badge/-++-ffffff?style=flat&logo=c&logoColor=004090)&nbsp;
+
 - 📱 &nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-ffffff?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-ffffff?style=flat&logo=android&logoColor=007ACC)&nbsp;
 ![Apple](https://img.shields.io/badge/-Apple-ffffff?style=flat&logo=apple&logoColor=007ACC)&nbsp;
 - 🌐 &nbsp;
-![ReactJS](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react&logoColor=007ACC)&nbsp;
+
 ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js)&nbsp;
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)&nbsp;
@@ -24,7 +23,7 @@
 ![GitKraken](https://img.shields.io/badge/-GitKraken-ffffff?style=flat&logo=gitkrakenlogoColor=000000)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=postman)&nbsp;
 - 🛢 &nbsp;
-![Redis](https://shields.io/badge/-Redis-ffffff?style=flat&logo=redis)&nbsp;
+
 ![MongoDB](https://shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=postgresql)&nbsp;
