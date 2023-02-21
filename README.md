@@ -8,7 +8,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=FFA500)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
-![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=004070)&nbsp;
+
 - 📱 &nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-ffffff?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-ffffff?style=flat&logo=android&logoColor=007ACC)&nbsp;
@@ -28,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android  Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
 ![XCode](https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-ffffff?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
+
 
 
 
