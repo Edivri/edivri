@@ -23,7 +23,7 @@
 - 🛢 &nbsp;
 ![MongoDB](https://shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=postgresql)&nbsp;
+
 - 🖥 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android  Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
