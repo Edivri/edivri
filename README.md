@@ -5,7 +5,6 @@
 ## 🛠&nbsp;Tech Stack
 - 💻 &nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=A020F0)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=FFA500)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
 
